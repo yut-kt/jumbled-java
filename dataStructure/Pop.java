@@ -1,0 +1,3 @@
+interface Pop {
+    void pop();
+}
